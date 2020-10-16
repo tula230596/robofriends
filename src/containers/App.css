@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Karlin-1Gl52';
+  
+  src: url('Karlin-1Gl52.ttf')  format('truetype'); 
+       
+}
+
+h1{
+	font-family: 'Karlin-1Gl52';
+	
+}
+
